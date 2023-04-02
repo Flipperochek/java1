@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        int amountTicket = 13676; // стоимость билета
-        int milePerAmount = 20; // стоимость мили 
+        int amountTicket = 15000; // стоимость билета
+        int milePerAmount = 50; // стоимость мили
 
         int miles; // объявление переменной для количества миль
         if (amountTicket < 0) {
